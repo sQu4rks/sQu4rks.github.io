@@ -37,8 +37,22 @@
   "awards": [],
   "certificates": [
     {
-      "title": "aws certified Advanced Networking - Speciality",
+      "name": "aws certified Advanced Networking - Speciality",
+      "issuer": "Amazon Web Services Training and Certifications",
+      "url": "https://www.credly.com/badges/da425398-6cfa-43f2-8c3b-95860a28d64c",
       "date": "2023-10-25"
+    },
+    {
+      "name": "aws certified SysOps Administrator - Associate",
+      "issuer": "Amazon Web Services Training and Certifications",
+      "url": "https://www.credly.com/badges/be1486c0-a313-4c33-a427-c14c9cc13047",
+      "date": "2023-04-17"
+    },
+    {
+      "name": "aws certified Solutions Architect - Associate",
+      "issuer": "Amazon Web Services Training and Certifications",
+      "url": "https://www.credly.com/badges/86b96eb8-977a-42d7-b6ac-0717ee550cf9",
+      "date": "2023-02-13"
     }
   ],
   "publications": [],
