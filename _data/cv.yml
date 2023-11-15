@@ -2,32 +2,23 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Marcel Neidinger
     - name: Date of Birth
-      value: 14th March 1879
+      value: July 1996
     - name: Languages
-      value: English, German
+      value: English, German, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc
+      institution: University of Bath, Bath, United Kingdom
+      year: 2021 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: BSc
+      institution: University of Basel, Basel, Switzerland
+      year: 2014 - 2017
       description:
-        - Description 1.
-        - Description 2.
-
 - title: Experience
   type: time_table
   contents:
