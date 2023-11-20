@@ -2,32 +2,67 @@
   "basics": {
     "name": "Marcel Neidinger",
     "label": "Solutions Architect",
-    "image": "",
+    "image": "https://squ4rks.github.io/assets/img/profile.jpg",
     "email": "mn@nlogn.org",
     "url": "https://sQu4rks.github.io/",
     "summary": "",
-    "profiles": []
+    "profiles": [
+      {
+        "network": "X (formerly Twitter)",
+        "username": "sQu4rks",
+        "url": "https://x.com/sQu4rks"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "marcel-neidinger",
+        "url": "https://linkedin.com/in/marcel-neidinger"
+      },
+      {
+        "network": "GitHub",
+        "username": "sQu4rks",
+        "url": "https://github.com/squ4rks"
+      }
+    ]
   },
   "work": [
     {
+      "name": "amazon web services",
+      "position": "Solutions Architect",
+      "startDate": "2023-01-01",
+      "endDate": "present",
+      "summary": "TBD",
+      "highlights": [
+        "TBD",
+      ]
+    },
+    {
       "name": "EMEA Systems Engineering, Cisco Systems Inc.",
       "position": "Software Solutions Engineer",
-      "url": "https://example.com",
       "startDate": "2020-08-01",
       "endDate": "2022-12-31",
-      "summary": "Summary",
+      "summary": "TBD",
       "highlights": [
-        "Relativity"
+        "TBD"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
+      "institution": "University of Bath, Bath, United Kingdom",
+      "url": "https://online.bath.ac.uk",
+      "area": "Computer Science",
+      "studyType": "MSc Computer Science",
+      "startDate": "2021",
+      "endDate": "present",
+      "score": "",
+      "courses": []
+    },
+    {
       "institution": "University of Basel, Basel, Switzerland",
       "url": "https://dmi.unibas.ch",
       "area": "Computer Science",
-      "studyType": "BSc",
+      "studyType": "BSc Computer Science",
       "startDate": "2014",
       "endDate": "2017",
       "score": "",
@@ -35,6 +70,15 @@
     }
   ],
   "awards": [],
+  "skills": [
+    {
+      "name": "Software Development",
+      "keywords": [
+        "c++",
+        "python",
+      ],
+    }
+  ],
   "certificates": [
     {
       "name": "aws certified Advanced Networking - Speciality",
@@ -55,8 +99,15 @@
       "date": "2023-02-13"
     }
   ],
-  "publications": [],
-  "skills": [],
+  "publications": [
+    {
+      "name": "Python Network Programming Techniques",
+      "publisher": "packt Publishing",
+      "releaseDate": "2021-10-01",
+      "url": "https://www.packtpub.com/product/python-network-programming-techniques/9781838646639",
+      "summary": "TBD"
+    }
+  ],
   "languages": [
     {
       "language": "German",
